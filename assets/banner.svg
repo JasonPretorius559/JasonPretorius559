@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jason Pretorius — Software Developer</title>
+  <desc id="desc">A dark navy banner with teal accents. Python, Django, TypeScript and Next.js.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1526"/><stop offset="1" stop-color="#142b3b"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8bb3c4" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M1030 44 936 160l94 116M1140 44l94 116-94 116M1110 70l-48 180" fill="none" stroke="#55dbc2" stroke-opacity=".18" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="64" y="60" width="44" height="5" rx="2.5" fill="#55dbc2"/>
+  <text x="64" y="130" fill="#f1f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700">Jason Pretorius</text>
+  <text x="66" y="178" fill="#55dbc2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">Software Developer</text>
+  <text x="66" y="238" fill="#afc1d5" font-family="Segoe UI,Arial,sans-serif" font-size="20">Python / Django / TypeScript / Next.js</text>
+  <rect x="64" y="275" width="280" height="1" fill="#55dbc2" opacity=".45"/>
+</svg>
